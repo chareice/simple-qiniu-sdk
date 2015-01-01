@@ -1,0 +1,13 @@
+{
+    "name": "chareice/simple-qiniu-sdk",
+    "authors": [
+        {
+            "name": "Chareice",
+            "email": "chareice@live.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Qiniu\\": "qiniu/Qiniu"
+        }
+    }}
